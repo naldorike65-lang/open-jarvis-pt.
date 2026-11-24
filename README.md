@@ -1,2 +1,0 @@
-# open-jarvis-pt.
-Naldo 
